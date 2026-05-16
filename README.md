@@ -102,18 +102,6 @@ A frontend-focused chess engine built around advanced state management concepts.
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=itsswayize&show_icons=true&theme=dark" alt="Ali's GitHub Stats" width="48%" /> -->
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsswayize&theme=dark" alt="Ali's GitHub Streak" width="48%" />
-</p>
-
----
-
 ### 📚 Current Focus
 
 - Distributed Systems
