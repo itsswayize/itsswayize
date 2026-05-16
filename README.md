@@ -1,8 +1,8 @@
 # Hi there, I'm Ali Shumba 👋 🚀
 
-### 👨‍💻 Software Engineer | Systems Integration & Full-Stack Development
+### 👨‍💻 Software Engineer | Backend Systems & Full-Stack Development
 
-I am a passionate and versatile software engineer focused on building resilient backend systems, distributed microservices, and dynamic web applications. From crafting intuitive frontend state machines to managing complex client-server architectures over TCP/IP, I love diving deep into how systems communicate under the hood.
+I am a passionate and versatile software engineer focused on building resilient backend systems, distributed microservices, and dynamic web applications. From crafting intuitive frontend state machines to managing complex client-server architectures over TCP/IP, I enjoy exploring how distributed systems communicate and scale under the hood.
 
 ---
 
@@ -11,11 +11,19 @@ I am a passionate and versatile software engineer focused on building resilient 
 ```javascript
 const coder = {
   name: 'Ali Shumba',
-  skills: ['Java', 'Spring Boot', 'Angular', 'TypeScript', 'SQL', 'Python', 'ActiveMQ'],
+  skills: [
+    'Java',
+    'Spring Boot',
+    'Angular',
+    'TypeScript',
+    'PostgreSQL',
+    'Python',
+    'ActiveMQ'
+  ],
   hardWorker: true,
   quickLearner: true,
   problemSolver: true,
-  hireable: function() {
+  hireable: function () {
     return (
       this.hardWorker &&
       this.problemSolver &&
@@ -27,45 +35,104 @@ const coder = {
 
 ---
 
-### 🛠️ Core Tech Stack 
+### 🛠️ Core Tech Stack
 
-* **Languages:** Java, JavaScript, TypeScript, Python, SQL, HTML5/CSS3
-* **Frameworks & Libraries:** Spring Boot, Angular, React, Next.js, Javalin, Tailwind CSS
-* **Architecture & Tools:** REST APIs, Microservices, ActiveMQ (JMS), Sockets, Docker, Git, Maven
+#### 💻 Languages
+- Java
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- HTML5/CSS3
+
+#### ⚙️ Frameworks & Libraries
+- Spring Boot
+- Angular
+- React
+- Next.js
+- Javalin
+- Tailwind CSS
+
+#### 🏗️ Architecture & Tools
+- REST APIs
+- Microservices
+- ActiveMQ (JMS)
+- TCP/IP Sockets
+- Docker
+- Git
+- Maven
 
 ---
 
 ### 🚀 The 4-Pillar Engineering Portfolio
 
 #### 1. ⚡ [LightSched: Event-Driven Microservices](https://github.com/itsswayize/loadshed)
-* **Architecture:** Java, Javalin, ActiveMQ, REST, Pub/Sub Messaging
-* **Overview:** A distributed microservices network tracking regional power schedules. Features asynchronous alerting via ActiveMQ queues, real-time stage updates via Pub/Sub topics, and fault-tolerant graceful degradation to handle localized server outages.
+
+**Architecture:** Java, Javalin, ActiveMQ, REST APIs, Pub/Sub Messaging
+
+**Overview:**  
+A distributed microservices network designed to track regional power schedules. Features asynchronous alerting through ActiveMQ queues, real-time stage updates using Pub/Sub topics, and graceful degradation strategies to maintain service reliability during localized outages.
+
+---
 
 #### 2. 🤖 [Robot Worlds: Multi-threaded Server Engine](https://github.com/itsswayize/robot-worlds)
-* **Architecture:** Core Java, Multi-threading, TCP/IP Sockets, EoDSQL
-* **Overview:** A complex backend simulation game where a centralized thread-pooled server processes simultaneous socket connections from multiple clients. Features custom JSON communication protocols, spatial collision detection, and raw relational database mapping.
+
+**Architecture:** Core Java, Multi-threading, TCP/IP Sockets, EoDSQL
+
+**Overview:**  
+A multiplayer backend simulation game powered by a centralized thread-pooled server capable of processing simultaneous socket connections from multiple clients. Features custom JSON communication protocols, collision detection systems, and relational database persistence.
+
+---
 
 #### 3. 🏆 [Fantasy League: Enterprise Full-Stack](https://github.com/itsswayize/fantasy_league)
-* **Architecture:** Angular, Spring Boot, JPA/Hibernate, SQL
-* **Overview:** A complete sports management application. Handles complex business logic including dynamic fixture generation, team management, and match engine simulations bridged together by a robust REST API.
+
+**Architecture:** Angular, Spring Boot, JPA/Hibernate, PostgreSQL
+
+**Overview:**  
+A complete sports management platform featuring dynamic fixture generation, team management systems, standings synchronization, and match engine simulations connected through a robust REST API architecture.
+
+---
 
 #### 4. ♟️ [Local Chess: Complex UI State Machine](https://github.com/itsswayize/chess_local_multiplayer)
-* **Architecture:** Angular, TypeScript, RxJS
-* **Overview:** A purely frontend state-management engine. Handles complex matrix array manipulations, rigorous move validation logic, and responsive drag-and-drop mechanics without relying on a backend server.
+
+**Architecture:** Angular, TypeScript, RxJS
+
+**Overview:**  
+A frontend-focused chess engine built around advanced state management concepts. Handles matrix manipulation, rigorous move validation, responsive drag-and-drop mechanics, and local multiplayer gameplay without relying on a backend service.
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
+  <!-- GitHub Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=itsswayize&show_icons=true&theme=dark" alt="Ali's GitHub Stats" width="48%" /> -->
+
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsswayize&theme=dark" alt="Ali's GitHub Streak" width="48%" />
 </p>
 
 ---
 
+### 📚 Current Focus
+
+- Distributed Systems
+- Event-Driven Architecture
+- Backend API Development
+- Full-Stack Web Applications
+- Real-Time Communication Systems
+- Scalable Software Design
+
+---
+
 ### 📬 Let's Connect!
 
-* 📧 **Email:** [alishumba61@gmail.com](mailto:alishumba61@gmail.com)
-* 📍 **Location:** Johannesburg, South Africa
-* 💼 **Open to:** Software Engineering roles, Backend Systems Integration, and Full-Stack opportunities.
+- 📧 **Email:** [alishumba61@gmail.com](mailto:alishumba61@gmail.com)
+- 📍 **Location:** Johannesburg, South Africa
+- 💼 **Open to:** Software Engineering Roles, Backend Systems Development, and Full-Stack Opportunities
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy building systems that simulate real-world communication — from event-driven power scheduling platforms to multiplayer socket-based game servers.
