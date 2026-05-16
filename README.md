@@ -58,7 +58,7 @@ const coder = {
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsswayize&show_icons=true&theme=dark" alt="Ali's GitHub Stats" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=itsswayize&show_icons=true&theme=dark" alt="Ali's GitHub Stats" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsswayize&theme=dark" alt="Ali's GitHub Streak" width="48%" />
 </p>
 
