@@ -35,32 +35,22 @@ const coder = {
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🧰 Tech Stack
 
 #### 💻 Languages
-- Java
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- HTML5/CSS3
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,sql" />
+</p>
 
-#### ⚙️ Frameworks & Libraries
-- Spring Boot
-- Angular
-- React
-- Next.js
-- Javalin
-- Tailwind CSS
+#### ⚙️ Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,spring,docker,git,github" />
+</p>
 
-#### 🏗️ Architecture & Tools
-- REST APIs
-- Microservices
-- ActiveMQ (JMS)
-- TCP/IP Sockets
-- Docker
-- Git
-- Maven
+#### 🗄️ Databases & Dev Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,postman,vscode,linux" />
+</p>
 
 ---
 
